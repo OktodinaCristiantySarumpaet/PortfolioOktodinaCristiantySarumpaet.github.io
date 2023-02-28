@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QualityStatsUserSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UserOptedIn>True</UserOptedIn>
+  <SessionInformation SessionId="cf29cd99de01471693d56819004f347a">
+    <SessionCreated>11/9/2018 4:46:00 PM</SessionCreated>
+    <LastEventLogged>11/9/2018 4:48:08 PM</LastEventLogged>
+  </SessionInformation>
+</QualityStatsUserSettings>

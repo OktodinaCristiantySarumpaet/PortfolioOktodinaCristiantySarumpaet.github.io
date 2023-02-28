@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QualityStatsSystemSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SubscriptionFileLastModified>9/20/2017 4:05:00 AM</SubscriptionFileLastModified>
+  <SubscriptionFileLastChecked>11/9/2018 4:45:59 PM</SubscriptionFileLastChecked>
+  <NumberofDaysBetweenSubscriptionFileDownloads>7</NumberofDaysBetweenSubscriptionFileDownloads>
+</QualityStatsSystemSettings>
